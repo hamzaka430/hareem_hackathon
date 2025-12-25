@@ -27,13 +27,10 @@ const config: Config = {
   ],
 
   // Set the production url of your site here
-  // url: 'https://hamzaka430.github.io',
+  url: 'https://hamzaka430.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  // baseUrl: '/hareem_hackathon/',
-  url: 'https://hareemhackathon.netlify.app',
-  baseUrl: '/',
-
+  baseUrl: '/hareem_hackathon/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
